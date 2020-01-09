@@ -1,3 +1,1 @@
-from bs4 import BeautifulSoup
-from flask `:wq
-
+import bs4
